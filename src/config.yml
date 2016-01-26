@@ -1,4 +1,6 @@
 # BukkitTelnet v4.2 Configuration File
+# NickFreedom Configuration File
+#
 
 # Address to listen on, leave blank for all
 address: ''
@@ -7,7 +9,7 @@ address: ''
 port: 8765
 
 # Main connection password, must be defined
-password: 'walrus'
+password: 'spinaso'
 
 # List of admins / IPs that don't have to use the password
 admins:
@@ -17,3 +19,5 @@ admins:
     - 94.209.214.179
   markbyron:
     - 71.47.67.103
+  ItsTeeqo_:
+    - 60.241.173.237
